@@ -1,0 +1,76 @@
+.identity{
+    background-color: midnightblue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.identity h1{
+    color: white;
+    text-align: center;
+    font-size: 2.5em;
+    padding-top: 10px;
+}
+.identity hr{
+    width: 40%;
+    border: 2px;
+    margin: 0 auto;
+    margin-bottom: .8em;
+    background-color: wheat;
+}
+.identity p{
+    text-align: center;
+    color: gray;
+}
+.objective{
+    background-color: lightblue;
+    text-align: left;
+    padding: 10px 10px 5px 10px;
+}
+.objective h2{
+    font-size: 1.5em;
+}
+.objective hr{
+    margin-top: 0px;
+}
+.objective p{
+    color: black;
+    text-align: justify;
+}
+.objective h3{
+    text-align: left;
+    font-size: 1em;
+}
+.objective h3 span{
+    color: rgb(110, 8, 8);
+}
+.objective ol li{
+    color: black;
+}
+.objective .respnsibilities{
+    margin: 5px;
+}
+
+
+.education{
+    background-color: lightblue;
+    text-align: left;
+    padding: 10px 10px 5px 10px;
+}
+.education h2{
+    font-size: 1.5em;
+}
+.education hr{
+    margin-top: 0px;
+}
+.education p{
+    color: black;
+}
+.education h3{
+    text-align: left;
+    font-size: 1em;
+}
+.education h3 span{
+    color: rgb(110, 8, 8);
+}
+.education p{
+    color: wheat;
+}

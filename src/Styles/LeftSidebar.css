@@ -1,0 +1,55 @@
+.leftSidebar{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.leftSidebar h2, p, li{
+    text-align: left;
+    color: white;
+}
+.leftSidebar img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.leftSidebar h2{
+    position: relative;
+    font-size: 1.5em;
+}
+.leftSidebar h2::after{
+    content:"";
+    position: absolute;
+    height: 2px;
+    width:100%;
+    background-color: white;
+    display: block;
+}
+.leftSidebar .skills .progressStyle p{
+    margin: 5px 0px 5px 0px;
+}
+.leftSidebar .language{
+    text-align: left;
+}
+.leftSidebar .language .bangla{
+    color: burlywood;
+}
+.leftSidebar .language .bangla p{
+    margin: 5px 0px 0px 5px;
+}
+.leftSidebar .language .english p{
+    margin: 5px 0px 0px 5px;
+}
+.leftSidebar .language .english{
+    color: burlywood;
+}
+.leftSidebar .language .bangla span{
+    padding-right: 5px;
+
+}
+.leftSidebar .language .english span{
+    padding-right: 5px;
+}
+.leftSidebar .language .english .enfive{
+    color: gray;
+}

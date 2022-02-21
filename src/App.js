@@ -1,9 +1,13 @@
-import './App.css'
-import Navbar from './components/header'
+import './App.css';
+import Navigationbar from './components/header';
+import Layouts from './components/Layouts';
+import Footer from './components/footer'
 function App() {
   return (
     <div className="App">
-      <Navbar/>
+      <Navigationbar/>
+      <Layouts/>
+      <Footer/>
     </div>
   );
 }
